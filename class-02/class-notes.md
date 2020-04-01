@@ -12,3 +12,9 @@
 1. three
 1. blue
 1. four
+
+# Computer Setup
+
+## Tools
+
+## Command Line Prompts
