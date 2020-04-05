@@ -8,3 +8,4 @@ Welcome!  You have found the learning journal demo for class 102n49, I am good a
 - [git v GitHub](git-github-notes.md)
 - [HTML notes](html-notes.md)
 - [CSS notes](css-notes.md)
+- [JavaSricpt Notes](javascript-notes.md)
